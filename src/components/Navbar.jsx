@@ -4,8 +4,8 @@ import { NavLink } from 'react-router-dom'
 const Navbar = () => {
   return (
    <header className='header'>
-    <NavLink  to="/" className="p-3 w-50 h-10 rounded-lg bg-white items-center justify-center flex font-bold shadow-md">
-        <p className='blue-gradient_text'>Anurag's World</p>
+    <NavLink  to="/" className="p-3 w-10 h-10 rounded-lg bg-white items-center justify-center flex font-bold shadow-md">
+        <p className='blue-gradient_text'>AW</p>
     </NavLink>
     <nav className='flex text-lg gap-7 font-medium'>
 
